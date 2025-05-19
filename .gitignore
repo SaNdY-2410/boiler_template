@@ -25,3 +25,6 @@ dist-ssr
 
 # environmental veriable
 .env
+
+# vite cache file
+.vite

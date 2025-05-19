@@ -4,7 +4,7 @@ A modern and minimal boilerplate for building React applications with **Mantine*
 
 ## 🚀 Live Demo
 
-👉 [View Demo](https://mycoolapp.vercel.app)
+👉 [View Demo](https://boiler-template.vercel.app/)
 
 ## ✨ Features
 
@@ -60,6 +60,7 @@ RM_BOILER_TEMPLATE/
 ├── src/
 │   ├── assets/          # Static assets (images, fonts, etc.)
 │   ├── Layout/          # Layout components (appshell, mainLayout , layout etc.)
+|   |__ Pages /          # Pages Components ( Home , Service etc., )
 │   ├── components/      # Reusable UI components
 │   ├── theme/           # Custom Mantine theme configuration
 │   ├── utils/           # Utility functions and helpers
